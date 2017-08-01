@@ -1,0 +1,86 @@
+#my-theme .max-width {
+    min-width: 100%;
+}
+
+
+#my-theme .top-header-style {
+    background: black;
+    color: yellow;
+    font-family: serif;
+}
+
+#my-theme .bottom-header-style {
+    background: black;
+    border-bottom: solid yellow .5rem;
+    padding-left: 0px;
+    color: white;
+ }
+
+#my-theme .nav-styling {
+    padding-right: 0px;
+    padding-left: 0px;
+	background: black;
+    border-bottom: solid yellow .5rem;
+ }
+
+#my-theme .nav-bar-styling {
+    text-transform: uppercase;
+    font-weight: bolder;
+    color:white;
+}
+
+#my-theme .nav-bar-normal {
+    color:white;
+}
+
+#my-theme .gray-box-1 {
+	background-color: gray;
+	color:black;
+	font-weight: bold;
+    font-style: italic;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+	font-size: 1.5rem;
+}
+
+#my-theme .background-image {
+	background-image: url(../assets/coworking.jpg);
+    background-color: transparent;
+    background-size: cover;
+    min-height: 250px;
+}
+
+#my-theme .clear-box {
+	border:black 1.5px;
+    background-color: white;
+    opacity: 0.9;
+    margin-left: 65rem;
+    margin-right: 5rem;
+    padding: 5rem;
+    margin-top: 5rem;
+    min-width: 15rem;
+}
+
+#my-theme .button-style-yellow {
+  	background-color: yellow;
+    opacity: 1.0;
+    width: inherit;
+    margin-left: .5rem;
+}
+
+
+#my-theme .button-style-1 {
+    width: 100%;
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#my-theme .my-footer {
+	padding:1.5rem;
+    background: black;
+    margin-top: 10rem;
+    color:white;
+}
